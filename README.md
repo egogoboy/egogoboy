@@ -1,16 +1,24 @@
-## Hi there 👋
+## Egor Sudakov
 
-<!--
-**egogoboy/egogoboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student interested in **Computational Finance and Algorithmic Trading.**
 
-Here are some ideas to get you started:
+Currently working on an [event-driven backtesting engine in C++20](https://github.com/egogoboy/Backtesting-System)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Areas of interest**
+
+- Computational Finance
+- Algorithmic Trading
+- Statistics & Probability
+- Software Engineering
+
+**Currently learning**
+
+- Quantitative Finance
+- Financial Statistics
+- Python for Finance
+
+---
+
+**Education**
+
+BSc Software Engineering — RSATU, 2023–2027
