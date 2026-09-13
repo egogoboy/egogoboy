@@ -1,0 +1,15 @@
+name: Monkeytype Readme
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Updates every 6 hours
+  workflow_dispatch: # Allows manual updates
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Monkeytype Readme Action
+        uses: ridemountainpig/monkeytype-readme@master
+        with:
+          MONKEYTYPE_USERNAME: egogoboy
+          MONKEYTYPE_THEME_NAME: nord_light # Optional: Choose your favorite theme (replace spaces with _)
+          BRANCH_NAME: main
