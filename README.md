@@ -9,9 +9,3 @@ Also studying **quantitative finance, financial statistics, and Python for Finan
 **Education**
 
 - BSc Software Engineering – RSATU, 2023–2027
-
----
-
->Currently reading way too many books about quantitative finance.
->
-><img width="125" height="70" alt="image" src="https://github.com/user-attachments/assets/3a732796-d1a5-4781-83b8-3c095b57c455" />
